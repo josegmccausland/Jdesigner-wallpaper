@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "133537512561",
+    "firebase_url": "https://juvedesinger.firebaseio.com",
+    "project_id": "juvedesinger",
+    "storage_bucket": "juvedesinger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133537512561:android:91b326f5aebe6a967cefd0",
+        "android_client_info": {
+          "package_name": "com.juvedesigner.jdesigner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133537512561-gelg5rb7sfl0rcen3laa6qqmk6sunjk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVafR7eKMoXWNK_LOfG61fYTbGUwiZz7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133537512561-gelg5rb7sfl0rcen3laa6qqmk6sunjk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
